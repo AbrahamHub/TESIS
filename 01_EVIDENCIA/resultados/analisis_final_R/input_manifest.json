@@ -1,0 +1,13 @@
+{
+  "analysis_export_contract.json": "c5bd0b3b28279ccfc55ae61d70774f56824c5b605127813dc8b0f6c602083cc3",
+  "attempts.csv": "c338d692246da5c9b14e947b632e82ae07986d97e7a9666d274087ec68f7bd6a",
+  "final_release.json": "0cd2aba760d33a3e8f98eda38433ea1f50f9ef4ff5c81bd840c7f5ebb631a3f6",
+  "registry.csv": "e704dbc23288a3203bbc8f2dde71c695b19cd663c8ad6c9ece7b724ab1c266fc",
+  "research_design.json": "8237b9b7b57375f779a60be174d7eae6fd3ec648d6fb4cadcf6130d06fa8f077",
+  "runtime_environments.json": "14e87d9edab38ef4572ab5fb930b076d39d64f8f634e14d6a70fecb15c6c471e",
+  "runtime_summary.csv": "51bf0fef14d45e4166c2cd4add2a794cf7100d5ca200b39b7b46f9ef20dda347",
+  "source_manifests/freeze.json": "7a05c7fc6b7cdc811afc92ab0dbcccaa6d2c12fe613c88adc36f78a741c274a4",
+  "source_manifests/population.json": "3e9999c623a936469c9b6a15fb170eea14df46f8304648a07071812fbf6832b2",
+  "source_manifests/protocol.json": "2b405b5a7c223fd5c60adef54b734d26981feb92b37057bdcd63b7ce6c0f961e",
+  "source_manifests/test.json": "1bc5c078118fff2ddbbe21d25f98ac03f51f1f265c489a30050d40e81ff03bd6"
+}

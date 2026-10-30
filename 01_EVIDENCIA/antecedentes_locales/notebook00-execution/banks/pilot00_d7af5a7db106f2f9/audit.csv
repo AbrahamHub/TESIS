@@ -1,0 +1,5 @@
+instance_id,n_customers,n_depots,available_vehicles,total_demand,zero_demand_customers,capacity_min,capacity_nonbinding_per_vehicle,unreachable_by_window_lower_bound,impossible_depot_return_lower_bound,oversized_demands,aggregate_capacity_sufficient,proven_infeasible_by_lower_bound,source_kind,sha256,feasibility_certified,certificate_scope
+dev_tw_n50_i0_fw_v2,50,1,12,2403.0,3,2403.0,True,[],[],[],True,False,nominal_feasible_derived_windows,cb57f1068a3c7b173dbd087154f8276a8ba98df7cb45cc542fc8a3f5ef12b94f,True,nominal_mean_only
+dev_tw_n100_i0_fw_v2,100,1,25,5100.0,3,5100.0,True,[],[],[],True,False,nominal_feasible_derived_windows,3e70717e9302373d12ddf25c613ef3c84522ba6c4f8a735c3368684db60eccff,True,nominal_mean_only
+dev_tw_n200_i0_fw_v2,200,1,48,10720.0,0,10720.0,True,[],[],[],True,False,nominal_feasible_derived_windows,387948482f58d7f1e8d6c109f5edcbcc59ea318660b166119e76dc5b3f6c422c,True,nominal_mean_only
+dev_tw_n300_i0_fw_v2,300,1,72,15397.0,5,15397.0,True,[],[],[],True,False,nominal_feasible_derived_windows,d2c4b2457c08cf9fa7981fa13a85bd0637ea914ef9eb281f62acdc96f3f3b231,True,nominal_mean_only

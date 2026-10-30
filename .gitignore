@@ -1,0 +1,5 @@
+
+# Archivos locales y configuraciones de agentes
+.DS_Store
+.agents/
+.claude/

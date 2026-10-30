@@ -1,0 +1,40 @@
+{
+  "protocol_version": "pilot-00-v1",
+  "role": "development_only",
+  "sizes": [
+    50,
+    100,
+    200,
+    300
+  ],
+  "instances_per_size": 1,
+  "selection_rule": "first_source_instance_id_before_solver_runs",
+  "master_seed": 20260916,
+  "scenarios": {
+    "train": 32,
+    "selection": 64,
+    "evaluation": 256
+  },
+  "alpha_cvar": 0.95,
+  "traffic": {
+    "velocity": 1.0,
+    "noise_scale": 1.0,
+    "accident_scale": 1.0,
+    "bucket_minutes": 1.0,
+    "mode": "stochastic"
+  },
+  "policies": [
+    "fixed_order",
+    "causal_edd"
+  ],
+  "derived_windows_approved": true,
+  "derived_300_approved": true,
+  "depot_index": 0,
+  "service_time_minutes": 0.0,
+  "global_start_time_minutes": 0.0,
+  "latency_threshold": null,
+  "minimum_improvement": null,
+  "significance_tests_enabled": false,
+  "deadline_window": "2026-10-26/2026-10-31",
+  "enn": "optional_exploratory"
+}

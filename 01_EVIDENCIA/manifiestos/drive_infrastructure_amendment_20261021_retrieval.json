@@ -1,0 +1,22 @@
+{
+  "folder_url": "https://drive.google.com/drive/folders/129zReUYnJdPaUPvzqraOeZDlZ7OSPSt0",
+  "bundle_canonical_digest": "c370ff60afc2769cc797e1c81589c154020f228135b7d22b4b00ba8af1d0894e",
+  "CHECKSUMS_file_sha256": "6dd38da8d35ad26977006379838c73bacf23985ab34a8ff3fdcb85278f419d2a",
+  "all_hashes_match": true,
+  "files": [
+    {
+      "relative_path": "amendment.json",
+      "drive_id": "1umpdN7_uT7BIn0aNaZ9WfDbU8q9H6jSP",
+      "drive_url": "https://drive.google.com/file/d/1umpdN7_uT7BIn0aNaZ9WfDbU8q9H6jSP/view?usp=drivesdk",
+      "bytes": 5115,
+      "sha256": "4b071185ab5e1f03ca9538b10f676ec8b66116832298a23c525522e4e6f04050"
+    },
+    {
+      "relative_path": "CHECKSUMS.json",
+      "drive_id": "18kx-q1FlQbDdyG_DvnucjvC8_EKSTfYW",
+      "drive_url": "https://drive.google.com/file/d/18kx-q1FlQbDdyG_DvnucjvC8_EKSTfYW/view?usp=drivesdk",
+      "bytes": 91,
+      "sha256": "6dd38da8d35ad26977006379838c73bacf23985ab34a8ff3fdcb85278f419d2a"
+    }
+  ]
+}

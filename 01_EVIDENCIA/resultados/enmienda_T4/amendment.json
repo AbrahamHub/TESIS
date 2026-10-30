@@ -1,0 +1,94 @@
+{
+  "schema_version": "infrastructure-restart-amendment-v1",
+  "amendment_id": "t4_restart_20260928_v1",
+  "parent_protocol_id": "final10_d4ae8593792f0f4854f5",
+  "population_sha256": "ce05f08892e92f3cff035f887bdf4604e54f9ac124e4af9ae048eeaf2541acfe",
+  "parent_protocol_bundle_sha256": "0f7ef404e66302b85f4156234a9761b0cf30211a6af6272577bbecc97991f055",
+  "parent_protocol_file_sha256": "3952c2c6c6a7322299949089252297c5ba49cd56d9587d9b300f78b04fd11f64",
+  "parent_config_sha256": "52f1ef88e08554ed436c50bb35b44f127844ebbce98ab364a288d547bf81153f",
+  "source_sha256": {
+    "__init__.py": "3b918a6be451453c92d2f6ae02d9148c144cf3b69d85a3d38b53c861e6e0c812",
+    "attention.py": "b3de64b70e30650f7ae0a3346143db7798d0d5125f6b8755451e3a5219b54c90",
+    "bank_io.py": "29ca61b5af5d216c8a938bbf077060c9267870d467f9e0781305f1f5aa4f09ba",
+    "baselines.py": "4278ab1346fbd4701c8851f27131f10196bd92a244108211d59be70c044149a1",
+    "checkpoint_diagnostics.py": "95159ee393a77942039dfc4d937484be3f728fb0c251fc21e51e0b141fa2f82d",
+    "comparison.py": "8380e8cf198006f95f5b4e41a2fdd0e74b664cafaadbaad90b3e441f37092a29",
+    "comparison_stats.py": "f5c146f7b103d3b828a03165bb4f7630dc169ad26c1dcb5e2596559e40603f90",
+    "exact.py": "6f4ef366bac8e157319094f3bac93a5e7a45ea83b18dfda9a1d48d2c00267499",
+    "experiments.py": "d3f89aa82e967cdacb816a4dbec635cc51d95a2204daed29d59fdb428eed9288",
+    "final_experiment.py": "3232adbcf6b2c8c82b4d9c010f8acda31357a86552c253572700af61cbb32dcb",
+    "hbg.py": "4ec60d39dbbaa66f4f1e8833aa341b69e01e003127544bb71c485a9a19637bf2",
+    "hybrid.py": "31aa4e57405c1c03f27140267144e2af1cfaeaf86a3c5bf30e82f76048008ede",
+    "metaheuristics.py": "8d7bf502f5400114587e2350b1422300910adbf0ad2409cd2577b78e7f950595",
+    "pilot.py": "69f2dc62d2a2a52856467a521630d097e4899a2cd3bae339ffb39700209e8bc0",
+    "pomo.py": "eaef2b8ad6af5be8954ae55e8935c4a86c089d253ca3e9a9eaf5175f05e2db20",
+    "reinforcement.py": "2bf856a47305c230c01794acbd53fe19c870cd17a21e546e5375606da509f06d",
+    "research_design.py": "baeb5746dc3e479a2895b9a9b7ea880066b06e4b0a162f461fe64540f59a5563",
+    "search.py": "036607266744a57b0d0270c07ebc19148d11ce5cb2f62dbacad2c14ccd8c23b4",
+    "supervised.py": "31472c47e1b292f10dd80467ed9e9468387aad73b6d5512f675263f7b70b5a6b",
+    "supervised_data.py": "182448f3f07c33f60ebdce18ad41cf899f3ddfad42dd5403822ec27dcda3f7ee",
+    "teacher_feasibility.py": "003c6ccc530e188199db9aa49040e70a4623762817e770356e1d533842be6040"
+  },
+  "analysis_r_sha256": "dac2688a1fb473b168837e80849af1fa8c105d7f53a5bd2efc66581a35884221",
+  "analysis_config_sha256": "fcb50845331cc84ab8ffb1e59efc0ffae7c72aa23b2d6c9326ac81e31a15b59b",
+  "validation_bundle_sha256": "4d00e2475ec081ea02a7a15d153c99445e725e45b57cdf8f841e69c17b79c072",
+  "reason": "Autor solicita continuar únicamente con T4 disponible, sin comprar acceso A100.",
+  "change": "Reiniciar los seis entrenamientos; mismos datos, métodos, semillas, presupuestos y puertas.",
+  "checkpoint_transfer": false,
+  "prior_artifacts_preserved": true,
+  "prior_cost_scope": "Último acumulado sellado por intento; cota inferior del gasto previo real.",
+  "prior_cost_exclusions": "Persistencia, interrupciones no selladas e inactividad; no sumar validación otra vez.",
+  "new_export_excludes_prior_costs": true,
+  "new_replicate_id": "independent_final_holdout_t4_restart_20260928_v1",
+  "prior_training_inventory": [
+    {
+      "method": "hbg_facs",
+      "seed": 11,
+      "status": "validation_gate_failed",
+      "epochs_completed": 5,
+      "recorded_training_seconds_lower_bound": 43562.152145701,
+      "artifact_relative_to_parent": "training/hbg_facs/seed_11/final",
+      "artifact_bundle_sha256": "0ead0a76fc39f39f68f8fd2b27220533e20140bab4c7aceb6cfd2f9b75902029",
+      "record_file_sha256": "029934eaa5a1f26e3d57abb3d29e47492ada799669e6a8a3a6aede7ffa214276"
+    },
+    {
+      "method": "hbg_facs",
+      "seed": 29,
+      "status": "partial_sealed_checkpoint",
+      "epochs_completed": 3,
+      "recorded_training_seconds_lower_bound": 26707.956509896,
+      "artifact_relative_to_parent": "training/hbg_facs/seed_29/epoch_0003",
+      "artifact_bundle_sha256": "7a1b69836bed872aaece56fd24aa4b0b2549d0359117dbaa30b37a334305a19e",
+      "record_file_sha256": "eba582391c52cb7d3e182f8b1a4d8d1b37e67f8af60a88d627095260ea5db144"
+    },
+    {
+      "method": "hbg_facs",
+      "seed": 47,
+      "status": "no_sealed_training_evidence",
+      "epochs_completed": 0,
+      "recorded_training_seconds_lower_bound": 0.0
+    },
+    {
+      "method": "pomo",
+      "seed": 11,
+      "status": "no_sealed_training_evidence",
+      "epochs_completed": 0,
+      "recorded_training_seconds_lower_bound": 0.0
+    },
+    {
+      "method": "pomo",
+      "seed": 29,
+      "status": "no_sealed_training_evidence",
+      "epochs_completed": 0,
+      "recorded_training_seconds_lower_bound": 0.0
+    },
+    {
+      "method": "pomo",
+      "seed": 47,
+      "status": "no_sealed_training_evidence",
+      "epochs_completed": 0,
+      "recorded_training_seconds_lower_bound": 0.0
+    }
+  ],
+  "recorded_prior_training_seconds_lower_bound": 70270.108655597
+}

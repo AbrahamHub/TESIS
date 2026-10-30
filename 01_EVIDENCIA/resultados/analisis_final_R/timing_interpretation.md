@@ -1,0 +1,1 @@
+El release registra varios entornos de ejecución: las comparaciones temporales requieren separar resultados por hardware/runtime. Los tiempos son descriptivos del cómputo observado; no estiman una aceleración causal (speedup) del método. runtime_summary.csv y runtime_environments.json se conservan sellados en source_evidence.

@@ -1,0 +1,133 @@
+{
+  "schema_version": "research-design-v2",
+  "status": "final_protocol_pending_colab_population_and_holdout_adapter",
+  "execution_policy": "colab_only",
+  "sizes": [
+    50,
+    100,
+    200,
+    300
+  ],
+  "split_seed": 20260919,
+  "geometry_quotas_per_size": {
+    "train": 100,
+    "validation": 20,
+    "test": 30
+  },
+  "population": {
+    "family": "official_generated_geometry_conditioned_windows_v1",
+    "master_seed": 2026091907,
+    "candidate_multiplier": 4,
+    "map_size": [
+      1000,
+      1000
+    ],
+    "demand_range": [
+      0,
+      100
+    ],
+    "num_depots": 1,
+    "dynamic_customers": false,
+    "geometry_rule": "fresh_official_base_generator_per_ticket",
+    "num_cities_rule": "max_1_n_div_50",
+    "fleet_rule": "official_24_bin_histogram_of_original_windows_before_conditioning",
+    "unknown_policy": "stop_preserve_same_ticket_no_substitution",
+    "exhaustion_policy": "stop_report_shortage_no_automatic_quota_change",
+    "duplicate_policy": "archive_and_advance_without_counting_as_new_geometry",
+    "selection_rule": "first_quota_certified_in_prefixed_role_stream_proven_rejections_only",
+    "certification_seconds_per_strategy": [
+      120,
+      600,
+      1800
+    ],
+    "certification_continuation_policy": "same_candidate_unknown_only_preserve_all_search_stages"
+  },
+  "fr_absolute_error": 0.05,
+  "fr_error_probability": 0.05,
+  "cvar_alpha": 0.95,
+  "minimum_expected_tail_observations": 50,
+  "primary_endpoint": "geometry_mean_feasibility_first_conservative_cost_win_score",
+  "primary_policy": "fixed_order",
+  "primary_contrasts": [
+    [
+      "hbg_facs",
+      "hbg_untrained"
+    ],
+    [
+      "hbg_facs",
+      "hbg_no_pheromone"
+    ]
+  ],
+  "primary_multiplicity": "holm_two_sided_familywise_0.05",
+  "win_score": {
+    "validity": "complete_coverage_capacity_windows_and_return_under_common_conservative_matrix",
+    "complete_beats_failed": true,
+    "both_failed_score": 0,
+    "both_valid_rule": "lower_conservative_travel_cost_wins",
+    "cost_tie_absolute_minutes": 1e-06,
+    "cost_tie_relative": 1e-09,
+    "seed_aggregation": "mean_all_prefixed_seed_pairs_within_geometry",
+    "size_aggregation": "equal_weight_four_size_strata",
+    "missing_artifact_policy": "analysis_blocked_never_recode_as_solver_failure"
+  },
+  "secondary_endpoints": [
+    "pipeline_strict_feasibility",
+    "conservative_valid_plan_fraction",
+    "conditional_conservative_gap_to_gurobi_bound_with_coverage",
+    "conditional_travel_on_common_valid_plan_cohort",
+    "conditional_duration_travel_plus_waiting_on_common_valid_plan_cohort",
+    "cvar_travel",
+    "mean_lateness_and_depot_overtime",
+    "recourse_reorders_and_delta_fixed_order_vs_causal_edd",
+    "total_compute_training_tuning_inference_evaluation_and_peak_memory"
+  ],
+  "secondary_comparators": [
+    "gurobi",
+    "ortools_routing",
+    "aco",
+    "tabu",
+    "pomo",
+    "edd"
+  ],
+  "seed_ids": [
+    11,
+    29,
+    47
+  ],
+  "search_seconds": 120.0,
+  "inference_scope": "geometry_population_conditional_on_frozen_checkpoints_and_finite_seed_set",
+  "power_guaranteed": false,
+  "quotas_are_planning_targets_not_a_power_calculation": true,
+  "planning_paired_score_sd_sensitivity": [
+    0.25,
+    0.5,
+    1.0
+  ],
+  "test_exposure_policy": "once_after_population_config_code_models_and_analysis_frozen",
+  "failed_runs_policy": "preserve_all_failures_missing_are_not_solver_failures",
+  "traffic_model_decision": "retain_sealed_original_minute_implementation_no_intensity_change",
+  "unit_model_change_policy": "separate_version_never_edit_accepted_bank",
+  "objective_scope": "conservative_travel_with_risk_evaluated_separately_no_claim_c_plus_Q",
+  "confirmatory_runner_status": "holdout_adapter_not_yet_validated",
+  "analysis_language": "R_for_frozen_geometry_level_analysis_python_for_common_evaluation",
+  "primary_inference": {
+    "method": "stratified_geometry_weighted_hoeffding_mean_bound",
+    "score_range": [
+      -1.0,
+      1.0
+    ],
+    "geometry_weight": "1 / (number_of_size_strata * n_test_geometries_in_size)",
+    "two_sided_pvalue": "min(1, 2 * exp(-mean_score^2 / (2 * sum_geometry_weights_squared)))",
+    "pointwise_confidence": 0.95,
+    "simultaneous_two_contrast_interval_individual_confidence": 0.975,
+    "confidence_halfwidth": "sqrt(2 * sum_geometry_weights_squared * log(2 / alpha))",
+    "interval_clipped_to": [
+      -1.0,
+      1.0
+    ],
+    "assumptions": "independent_test_geometries_conditional_on_frozen_models_and_finite_seed_set",
+    "limitation": "finite_sample_distribution_free_but_conservative_no_power_guarantee",
+    "noninferiority_margin_fr": null,
+    "fr_interpretation_guard": "always_report_pipeline_FR_difference_and_interval_no_global_robustness_claim_from_cost_win_score"
+  }
+}

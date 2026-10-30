@@ -1,0 +1,125 @@
+{
+  "schema_version": "saved-notebook-evidence-v1",
+  "scope": "saved_outputs_only_no_recalculation",
+  "author_confirmed_current_notebooks_are_latest": true,
+  "records": [
+    {
+      "notebook": "notebooks/00_setup_y_datos.ipynb",
+      "sha256": "75dafb1f64e3c85cf6b0bd3d4da07dc0e18631ac4dde0f8f254e94efad826454",
+      "archive": "notebooks/evidence/00_executed_75dafb1f64e3c85c.ipynb",
+      "transcript": "notebooks/evidence/00_executed_75dafb1f64e3c85c.txt",
+      "cells_with_execution_evidence": 13,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260917T021417Z_665a3a34"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/01_exactos_branch_cut.ipynb",
+      "sha256": "a813865a28248f75e2f61492959b1c846c2f5a63bf644189a7f96256cef91b9b",
+      "archive": "notebooks/evidence/01_executed_a813865a28248f75.ipynb",
+      "transcript": "notebooks/evidence/01_executed_a813865a28248f75.txt",
+      "cells_with_execution_evidence": 16,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260919T005140Z_481d1c5f"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/02_metaheuristicas_aco_tabu.ipynb",
+      "sha256": "6e8dc1d3be5bc34b4db1675eaa048e3d93d7f58d15f386ba33b5bc7cdd2837b8",
+      "archive": "notebooks/evidence/02_executed_6e8dc1d3be5bc34b.ipynb",
+      "transcript": "notebooks/evidence/02_executed_6e8dc1d3be5bc34b.txt",
+      "cells_with_execution_evidence": 16,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260917T222728Z_d048db31"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/03_nco_supervisado_attention.ipynb",
+      "sha256": "d4d0b8a94302e3b47ba0074dc669874a41e9af81ebe84321d2cd34a707face59",
+      "archive": "notebooks/evidence/03_executed_d4d0b8a94302e3b4.ipynb",
+      "transcript": "notebooks/evidence/03_executed_d4d0b8a94302e3b4.txt",
+      "cells_with_execution_evidence": 25,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260918T005406Z_c8c9b0f8"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/04_nco_rl_pomo.ipynb",
+      "sha256": "e9a3838ae9e20562737d2f90c0e86ecf19e57056f097e8b4a1493a3c7e3d1621",
+      "archive": "notebooks/evidence/04_executed_e9a3838ae9e20562.ipynb",
+      "transcript": "notebooks/evidence/04_executed_e9a3838ae9e20562.txt",
+      "cells_with_execution_evidence": 26,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260918T004829Z_c888d53a"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/05_ehbg_facs.ipynb",
+      "sha256": "2aab583286c2fd3baae0f8bff1f3a56a77a9a4fa84dc3f72d43e9545a4aef8b6",
+      "archive": "notebooks/evidence/05_executed_2aab583286c2fd3b.ipynb",
+      "transcript": "notebooks/evidence/05_executed_2aab583286c2fd3b.txt",
+      "cells_with_execution_evidence": 30,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260918T015823Z_fd78b10e"
+      ],
+      "embedded_sources_different_at_capture": [
+        "svrplab/metaheuristics.py",
+        "svrplab/experiments.py",
+        "svrplab/attention.py",
+        "svrplab/supervised_data.py",
+        "svrplab/supervised.py",
+        "svrplab/pomo.py",
+        "svrplab/reinforcement.py",
+        "svrplab/hbg.py",
+        "svrplab/hybrid.py",
+        "tests/test_metaheuristics.py",
+        "tests/test_attention.py",
+        "tests/test_pomo.py",
+        "tests/test_reinforcement.py",
+        "tests/test_hbg.py"
+      ]
+    },
+    {
+      "notebook": "notebooks/06_comparacion_y_estadistica.ipynb",
+      "sha256": "50276670fcbded1e4d670769f564a1c18bcec76cee19a2f5525e4eb8e64daaa6",
+      "archive": "notebooks/evidence/06_executed_50276670fcbded1e.ipynb",
+      "transcript": "notebooks/evidence/06_executed_50276670fcbded1e.txt",
+      "cells_with_execution_evidence": 17,
+      "saved_errors": [],
+      "run_ids_visible": [
+        "20260917T021417Z_665a3a34",
+        "20260917T023825Z_87dd1d0a",
+        "20260917T045359Z_c97d68ef",
+        "20260917T051517Z_b84740d5",
+        "20260917T180611Z_92411bba",
+        "20260917T202127Z_4d297cf7",
+        "20260917T222728Z_d048db31",
+        "20260918T004829Z_c888d53a",
+        "20260918T005406Z_c8c9b0f8",
+        "20260918T015823Z_fd78b10e"
+      ],
+      "embedded_sources_different_at_capture": []
+    },
+    {
+      "notebook": "notebooks/07_auditoria_diseno.ipynb",
+      "sha256": "0f709de73b63d1e98918e9f94fe6b44d1c5cbe56be1c669f5911cafb871499d3",
+      "archive": "notebooks/evidence/07_executed_0f709de73b63d1e9.ipynb",
+      "transcript": "notebooks/evidence/07_executed_0f709de73b63d1e9.txt",
+      "cells_with_execution_evidence": 7,
+      "saved_errors": [],
+      "run_ids_visible": [],
+      "embedded_sources_different_at_capture": []
+    }
+  ]
+}

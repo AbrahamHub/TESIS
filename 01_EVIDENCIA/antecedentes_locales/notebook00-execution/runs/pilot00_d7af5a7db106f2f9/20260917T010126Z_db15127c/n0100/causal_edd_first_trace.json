@@ -1,0 +1,1264 @@
+{
+  "scenario_seed": 5928184614814466137,
+  "travel_minutes": 19103.354106367224,
+  "base_minutes": 19090.745643814505,
+  "net_execution_delta_minutes": 12.608462552718265,
+  "waiting_minutes": 1696.1203034509833,
+  "lateness_minutes": 0.0,
+  "depot_overtime_minutes": 0.0,
+  "late_customers": 0,
+  "customer_violation_fraction": 0.0,
+  "strict_feasible": true,
+  "all_customers_served": true,
+  "used_vehicles": 22,
+  "recourse_reorders": 0,
+  "events": [
+    {
+      "vehicle": 0,
+      "from": 0,
+      "to": 10,
+      "departure": 0.0,
+      "arrival": 19.347549969921936,
+      "service_start": 19.347549969921936,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 10,
+      "to": 27,
+      "departure": 19.347549969921936,
+      "arrival": 111.32730100994061,
+      "service_start": 111.32730100994061,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 27,
+      "to": 9,
+      "departure": 111.32730100994061,
+      "arrival": 153.60573680944316,
+      "service_start": 153.60573680944316,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 9,
+      "to": 48,
+      "departure": 153.60573680944316,
+      "arrival": 186.8803781854785,
+      "service_start": 186.8803781854785,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 48,
+      "to": 22,
+      "departure": 186.8803781854785,
+      "arrival": 330.8668514080878,
+      "service_start": 330.8668514080878,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 22,
+      "to": 3,
+      "departure": 330.8668514080878,
+      "arrival": 373.9678956428151,
+      "service_start": 373.9678956428151,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 3,
+      "to": 32,
+      "departure": 373.9678956428151,
+      "arrival": 387.01128588565086,
+      "service_start": 387.01128588565086,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 32,
+      "to": 31,
+      "departure": 387.01128588565086,
+      "arrival": 429.29483812350696,
+      "service_start": 429.29483812350696,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 31,
+      "to": 15,
+      "departure": 429.29483812350696,
+      "arrival": 527.4506727262101,
+      "service_start": 527.4506727262101,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 15,
+      "to": 29,
+      "departure": 527.4506727262101,
+      "arrival": 550.0671576471926,
+      "service_start": 575.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 29,
+      "to": 44,
+      "departure": 575.0,
+      "arrival": 668.6045190963395,
+      "service_start": 668.6045190963395,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 44,
+      "to": 28,
+      "departure": 668.6045190963395,
+      "arrival": 762.5222983030696,
+      "service_start": 762.5222983030696,
+      "late": 0.0
+    },
+    {
+      "vehicle": 0,
+      "from": 28,
+      "to": 0,
+      "departure": 762.5222983030696,
+      "arrival": 939.4685700789955,
+      "service_start": 939.4685700789955,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 0,
+      "to": 87,
+      "departure": 0.0,
+      "arrival": 93.1010850310525,
+      "service_start": 93.1010850310525,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 87,
+      "to": 50,
+      "departure": 93.1010850310525,
+      "arrival": 132.8301323648398,
+      "service_start": 132.8301323648398,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 50,
+      "to": 36,
+      "departure": 132.8301323648398,
+      "arrival": 286.3262845101942,
+      "service_start": 286.3262845101942,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 36,
+      "to": 67,
+      "departure": 286.3262845101942,
+      "arrival": 356.03397989321377,
+      "service_start": 698.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 67,
+      "to": 79,
+      "departure": 698.0,
+      "arrival": 734.2396139518628,
+      "service_start": 740.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 79,
+      "to": 2,
+      "departure": 740.0,
+      "arrival": 771.3141238310092,
+      "service_start": 771.3141238310092,
+      "late": 0.0
+    },
+    {
+      "vehicle": 1,
+      "from": 2,
+      "to": 0,
+      "departure": 771.3141238310092,
+      "arrival": 902.0192712342689,
+      "service_start": 902.0192712342689,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 0,
+      "to": 90,
+      "departure": 0.0,
+      "arrival": 145.0889525571878,
+      "service_start": 145.0889525571878,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 90,
+      "to": 68,
+      "departure": 145.0889525571878,
+      "arrival": 185.19229552899213,
+      "service_start": 185.19229552899213,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 68,
+      "to": 69,
+      "departure": 185.19229552899213,
+      "arrival": 375.3033663576621,
+      "service_start": 375.3033663576621,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 69,
+      "to": 65,
+      "departure": 375.3033663576621,
+      "arrival": 443.77744439162717,
+      "service_start": 443.77744439162717,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 65,
+      "to": 72,
+      "departure": 443.77744439162717,
+      "arrival": 464.856624382554,
+      "service_start": 464.856624382554,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 72,
+      "to": 76,
+      "departure": 464.856624382554,
+      "arrival": 504.73424013185723,
+      "service_start": 504.73424013185723,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 76,
+      "to": 86,
+      "departure": 504.73424013185723,
+      "arrival": 536.8505970014512,
+      "service_start": 536.8505970014512,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 86,
+      "to": 98,
+      "departure": 536.8505970014512,
+      "arrival": 588.8644665655827,
+      "service_start": 588.8644665655827,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 98,
+      "to": 88,
+      "departure": 588.8644665655827,
+      "arrival": 601.1116210627866,
+      "service_start": 601.1116210627866,
+      "late": 0.0
+    },
+    {
+      "vehicle": 2,
+      "from": 88,
+      "to": 0,
+      "departure": 601.1116210627866,
+      "arrival": 837.0159710814502,
+      "service_start": 837.0159710814502,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 0,
+      "to": 70,
+      "departure": 0.0,
+      "arrival": 144.69866278440344,
+      "service_start": 144.69866278440344,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 70,
+      "to": 55,
+      "departure": 144.69866278440344,
+      "arrival": 241.8913718874175,
+      "service_start": 241.8913718874175,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 55,
+      "to": 74,
+      "departure": 241.8913718874175,
+      "arrival": 292.4613553013294,
+      "service_start": 292.4613553013294,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 74,
+      "to": 91,
+      "departure": 292.4613553013294,
+      "arrival": 343.56143215891586,
+      "service_start": 383.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 91,
+      "to": 77,
+      "departure": 383.0,
+      "arrival": 435.20177134117324,
+      "service_start": 583.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 77,
+      "to": 85,
+      "departure": 583.0,
+      "arrival": 671.4950368972468,
+      "service_start": 671.4950368972468,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 85,
+      "to": 54,
+      "departure": 671.4950368972468,
+      "arrival": 717.6912971088591,
+      "service_start": 717.6912971088591,
+      "late": 0.0
+    },
+    {
+      "vehicle": 3,
+      "from": 54,
+      "to": 0,
+      "departure": 717.6912971088591,
+      "arrival": 849.6967251471517,
+      "service_start": 849.6967251471517,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 0,
+      "to": 37,
+      "departure": 0.0,
+      "arrival": 162.92078253774486,
+      "service_start": 177.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 37,
+      "to": 24,
+      "departure": 177.0,
+      "arrival": 261.84015290905194,
+      "service_start": 261.84015290905194,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 24,
+      "to": 41,
+      "departure": 261.84015290905194,
+      "arrival": 319.88322224002553,
+      "service_start": 319.88322224002553,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 41,
+      "to": 25,
+      "departure": 319.88322224002553,
+      "arrival": 436.0632960195503,
+      "service_start": 436.0632960195503,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 25,
+      "to": 13,
+      "departure": 436.0632960195503,
+      "arrival": 530.1337781811328,
+      "service_start": 530.1337781811328,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 13,
+      "to": 49,
+      "departure": 530.1337781811328,
+      "arrival": 544.1037805882179,
+      "service_start": 544.1037805882179,
+      "late": 0.0
+    },
+    {
+      "vehicle": 4,
+      "from": 49,
+      "to": 0,
+      "departure": 544.1037805882179,
+      "arrival": 956.2249890093361,
+      "service_start": 956.2249890093361,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 0,
+      "to": 56,
+      "departure": 0.0,
+      "arrival": 172.37735345087617,
+      "service_start": 172.37735345087617,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 56,
+      "to": 61,
+      "departure": 172.37735345087617,
+      "arrival": 305.5531987615501,
+      "service_start": 305.5531987615501,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 61,
+      "to": 57,
+      "departure": 305.5531987615501,
+      "arrival": 328.26093333740357,
+      "service_start": 328.26093333740357,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 57,
+      "to": 52,
+      "departure": 328.26093333740357,
+      "arrival": 484.63343973639104,
+      "service_start": 484.63343973639104,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 52,
+      "to": 64,
+      "departure": 484.63343973639104,
+      "arrival": 645.4987390343363,
+      "service_start": 645.4987390343363,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 64,
+      "to": 95,
+      "departure": 645.4987390343363,
+      "arrival": 714.1517788626631,
+      "service_start": 714.1517788626631,
+      "late": 0.0
+    },
+    {
+      "vehicle": 5,
+      "from": 95,
+      "to": 0,
+      "departure": 714.1517788626631,
+      "arrival": 944.9721591148974,
+      "service_start": 944.9721591148974,
+      "late": 0.0
+    },
+    {
+      "vehicle": 6,
+      "from": 0,
+      "to": 8,
+      "departure": 0.0,
+      "arrival": 229.40425738071895,
+      "service_start": 229.40425738071895,
+      "late": 0.0
+    },
+    {
+      "vehicle": 6,
+      "from": 8,
+      "to": 16,
+      "departure": 229.40425738071895,
+      "arrival": 445.0612987083598,
+      "service_start": 445.0612987083598,
+      "late": 0.0
+    },
+    {
+      "vehicle": 6,
+      "from": 16,
+      "to": 4,
+      "departure": 445.0612987083598,
+      "arrival": 490.6659081795844,
+      "service_start": 490.6659081795844,
+      "late": 0.0
+    },
+    {
+      "vehicle": 6,
+      "from": 4,
+      "to": 35,
+      "departure": 490.6659081795844,
+      "arrival": 753.8062996950157,
+      "service_start": 753.8062996950157,
+      "late": 0.0
+    },
+    {
+      "vehicle": 6,
+      "from": 35,
+      "to": 0,
+      "departure": 753.8062996950157,
+      "arrival": 883.5895432862652,
+      "service_start": 883.5895432862652,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 0,
+      "to": 11,
+      "departure": 0.0,
+      "arrival": 237.19932863804354,
+      "service_start": 237.19932863804354,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 11,
+      "to": 33,
+      "departure": 237.19932863804354,
+      "arrival": 335.07687873424385,
+      "service_start": 335.07687873424385,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 33,
+      "to": 6,
+      "departure": 335.07687873424385,
+      "arrival": 362.996645103674,
+      "service_start": 362.996645103674,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 6,
+      "to": 30,
+      "departure": 362.996645103674,
+      "arrival": 465.28042924934715,
+      "service_start": 629.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 30,
+      "to": 21,
+      "departure": 629.0,
+      "arrival": 644.6428214167506,
+      "service_start": 644.6428214167506,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 21,
+      "to": 18,
+      "departure": 644.6428214167506,
+      "arrival": 694.2211148561086,
+      "service_start": 694.2211148561086,
+      "late": 0.0
+    },
+    {
+      "vehicle": 7,
+      "from": 18,
+      "to": 0,
+      "departure": 694.2211148561086,
+      "arrival": 900.2634417134749,
+      "service_start": 900.2634417134749,
+      "late": 0.0
+    },
+    {
+      "vehicle": 8,
+      "from": 0,
+      "to": 43,
+      "departure": 0.0,
+      "arrival": 326.72794577316205,
+      "service_start": 326.72794577316205,
+      "late": 0.0
+    },
+    {
+      "vehicle": 8,
+      "from": 43,
+      "to": 45,
+      "departure": 326.72794577316205,
+      "arrival": 603.1241052928042,
+      "service_start": 603.1241052928042,
+      "late": 0.0
+    },
+    {
+      "vehicle": 8,
+      "from": 45,
+      "to": 23,
+      "departure": 603.1241052928042,
+      "arrival": 744.6332764842622,
+      "service_start": 744.6332764842622,
+      "late": 0.0
+    },
+    {
+      "vehicle": 8,
+      "from": 23,
+      "to": 0,
+      "departure": 744.6332764842622,
+      "arrival": 975.6060756431657,
+      "service_start": 975.6060756431657,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 0,
+      "to": 63,
+      "departure": 0.0,
+      "arrival": 340.1887063450642,
+      "service_start": 340.1887063450642,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 63,
+      "to": 62,
+      "departure": 340.1887063450642,
+      "arrival": 409.6409956145817,
+      "service_start": 409.6409956145817,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 62,
+      "to": 99,
+      "departure": 409.6409956145817,
+      "arrival": 445.5617360807568,
+      "service_start": 445.5617360807568,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 99,
+      "to": 84,
+      "departure": 445.5617360807568,
+      "arrival": 495.6201379125258,
+      "service_start": 495.6201379125258,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 84,
+      "to": 53,
+      "departure": 495.6201379125258,
+      "arrival": 506.07998745211285,
+      "service_start": 506.07998745211285,
+      "late": 0.0
+    },
+    {
+      "vehicle": 9,
+      "from": 53,
+      "to": 0,
+      "departure": 506.07998745211285,
+      "arrival": 916.8112506969869,
+      "service_start": 916.8112506969869,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 0,
+      "to": 20,
+      "departure": 0.0,
+      "arrival": 369.24258024913667,
+      "service_start": 369.24258024913667,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 20,
+      "to": 19,
+      "departure": 369.24258024913667,
+      "arrival": 426.854631875349,
+      "service_start": 426.854631875349,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 19,
+      "to": 1,
+      "departure": 426.854631875349,
+      "arrival": 432.8685232899938,
+      "service_start": 432.8685232899938,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 1,
+      "to": 14,
+      "departure": 432.8685232899938,
+      "arrival": 519.8393974484105,
+      "service_start": 534.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 14,
+      "to": 17,
+      "departure": 534.0,
+      "arrival": 624.037056242085,
+      "service_start": 629.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 17,
+      "to": 12,
+      "departure": 629.0,
+      "arrival": 713.4020705154259,
+      "service_start": 713.4020705154259,
+      "late": 0.0
+    },
+    {
+      "vehicle": 10,
+      "from": 12,
+      "to": 0,
+      "departure": 713.4020705154259,
+      "arrival": 912.5268805308394,
+      "service_start": 912.5268805308394,
+      "late": 0.0
+    },
+    {
+      "vehicle": 11,
+      "from": 0,
+      "to": 66,
+      "departure": 0.0,
+      "arrival": 404.7236913475026,
+      "service_start": 412.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 11,
+      "from": 66,
+      "to": 82,
+      "departure": 412.0,
+      "arrival": 432.6786468976105,
+      "service_start": 520.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 11,
+      "from": 82,
+      "to": 93,
+      "departure": 520.0,
+      "arrival": 640.6730643963964,
+      "service_start": 641.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 11,
+      "from": 93,
+      "to": 0,
+      "departure": 641.0,
+      "arrival": 910.4781070104664,
+      "service_start": 910.4781070104664,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 0,
+      "to": 75,
+      "departure": 0.0,
+      "arrival": 426.21928587618925,
+      "service_start": 426.21928587618925,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 75,
+      "to": 94,
+      "departure": 426.21928587618925,
+      "arrival": 477.7666517570414,
+      "service_start": 477.7666517570414,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 94,
+      "to": 89,
+      "departure": 477.7666517570414,
+      "arrival": 623.9745273451346,
+      "service_start": 623.9745273451346,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 89,
+      "to": 92,
+      "departure": 623.9745273451346,
+      "arrival": 712.6313037110613,
+      "service_start": 712.6313037110613,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 92,
+      "to": 83,
+      "departure": 712.6313037110613,
+      "arrival": 756.1326647501405,
+      "service_start": 756.1326647501405,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 83,
+      "to": 42,
+      "departure": 756.1326647501405,
+      "arrival": 825.7067327655684,
+      "service_start": 825.7067327655684,
+      "late": 0.0
+    },
+    {
+      "vehicle": 12,
+      "from": 42,
+      "to": 0,
+      "departure": 825.7067327655684,
+      "arrival": 914.8503235191564,
+      "service_start": 914.8503235191564,
+      "late": 0.0
+    },
+    {
+      "vehicle": 13,
+      "from": 0,
+      "to": 26,
+      "departure": 0.0,
+      "arrival": 459.8522411107713,
+      "service_start": 459.8522411107713,
+      "late": 0.0
+    },
+    {
+      "vehicle": 13,
+      "from": 26,
+      "to": 34,
+      "departure": 459.8522411107713,
+      "arrival": 530.0822754187313,
+      "service_start": 530.0822754187313,
+      "late": 0.0
+    },
+    {
+      "vehicle": 13,
+      "from": 34,
+      "to": 0,
+      "departure": 530.0822754187313,
+      "arrival": 1057.400598180985,
+      "service_start": 1057.400598180985,
+      "late": 0.0
+    },
+    {
+      "vehicle": 14,
+      "from": 0,
+      "to": 40,
+      "departure": 0.0,
+      "arrival": 461.24063803947257,
+      "service_start": 461.24063803947257,
+      "late": 0.0
+    },
+    {
+      "vehicle": 14,
+      "from": 40,
+      "to": 7,
+      "departure": 461.24063803947257,
+      "arrival": 512.3414330375472,
+      "service_start": 512.3414330375472,
+      "late": 0.0
+    },
+    {
+      "vehicle": 14,
+      "from": 7,
+      "to": 47,
+      "departure": 512.3414330375472,
+      "arrival": 731.5395703458857,
+      "service_start": 731.5395703458857,
+      "late": 0.0
+    },
+    {
+      "vehicle": 14,
+      "from": 47,
+      "to": 0,
+      "departure": 731.5395703458857,
+      "arrival": 944.4838233029126,
+      "service_start": 944.4838233029126,
+      "late": 0.0
+    },
+    {
+      "vehicle": 15,
+      "from": 0,
+      "to": 59,
+      "departure": 0.0,
+      "arrival": 513.1110013839492,
+      "service_start": 513.1110013839492,
+      "late": 0.0
+    },
+    {
+      "vehicle": 15,
+      "from": 59,
+      "to": 0,
+      "departure": 513.1110013839492,
+      "arrival": 1026.1949788759434,
+      "service_start": 1026.1949788759434,
+      "late": 0.0
+    },
+    {
+      "vehicle": 16,
+      "from": 0,
+      "to": 39,
+      "departure": 0.0,
+      "arrival": 501.74778315870907,
+      "service_start": 501.74778315870907,
+      "late": 0.0
+    },
+    {
+      "vehicle": 16,
+      "from": 39,
+      "to": 46,
+      "departure": 501.74778315870907,
+      "arrival": 525.7716800724295,
+      "service_start": 525.7716800724295,
+      "late": 0.0
+    },
+    {
+      "vehicle": 16,
+      "from": 46,
+      "to": 0,
+      "departure": 525.7716800724295,
+      "arrival": 1029.2786507198937,
+      "service_start": 1029.2786507198937,
+      "late": 0.0
+    },
+    {
+      "vehicle": 17,
+      "from": 0,
+      "to": 5,
+      "departure": 0.0,
+      "arrival": 457.10026820044743,
+      "service_start": 457.10026820044743,
+      "late": 0.0
+    },
+    {
+      "vehicle": 17,
+      "from": 5,
+      "to": 0,
+      "departure": 457.10026820044743,
+      "arrival": 914.1878080056154,
+      "service_start": 914.1878080056154,
+      "late": 0.0
+    },
+    {
+      "vehicle": 18,
+      "from": 0,
+      "to": 78,
+      "departure": 0.0,
+      "arrival": 505.00434432801,
+      "service_start": 505.00434432801,
+      "late": 0.0
+    },
+    {
+      "vehicle": 18,
+      "from": 78,
+      "to": 97,
+      "departure": 505.00434432801,
+      "arrival": 644.3088788184516,
+      "service_start": 705.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 18,
+      "from": 97,
+      "to": 0,
+      "departure": 705.0,
+      "arrival": 1130.828938506795,
+      "service_start": 1130.828938506795,
+      "late": 0.0
+    },
+    {
+      "vehicle": 19,
+      "from": 0,
+      "to": 38,
+      "departure": 0.0,
+      "arrival": 509.9280614011686,
+      "service_start": 509.9280614011686,
+      "late": 0.0
+    },
+    {
+      "vehicle": 19,
+      "from": 38,
+      "to": 0,
+      "departure": 509.9280614011686,
+      "arrival": 1019.8249264259505,
+      "service_start": 1019.8249264259505,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 0,
+      "to": 60,
+      "departure": 0.0,
+      "arrival": 311.3956126699476,
+      "service_start": 499.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 60,
+      "to": 71,
+      "departure": 499.0,
+      "arrival": 507.07529637050266,
+      "service_start": 520.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 71,
+      "to": 51,
+      "departure": 520.0,
+      "arrival": 628.1248824614884,
+      "service_start": 636.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 51,
+      "to": 73,
+      "departure": 636.0,
+      "arrival": 647.0758858187722,
+      "service_start": 647.0758858187722,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 73,
+      "to": 81,
+      "departure": 647.0758858187722,
+      "arrival": 669.3228339386769,
+      "service_start": 669.3228339386769,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 81,
+      "to": 100,
+      "departure": 669.3228339386769,
+      "arrival": 756.2278870167369,
+      "service_start": 756.2278870167369,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 100,
+      "to": 96,
+      "departure": 756.2278870167369,
+      "arrival": 759.8434348127977,
+      "service_start": 759.8434348127977,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 96,
+      "to": 58,
+      "departure": 759.8434348127977,
+      "arrival": 837.0318465353023,
+      "service_start": 837.0318465353023,
+      "late": 0.0
+    },
+    {
+      "vehicle": 20,
+      "from": 58,
+      "to": 0,
+      "departure": 837.0318465353023,
+      "arrival": 897.0251539905584,
+      "service_start": 897.0251539905584,
+      "late": 0.0
+    },
+    {
+      "vehicle": 21,
+      "from": 0,
+      "to": 80,
+      "departure": 0.0,
+      "arrival": 180.71800311717104,
+      "service_start": 756.0,
+      "late": 0.0
+    },
+    {
+      "vehicle": 21,
+      "from": 80,
+      "to": 0,
+      "departure": 756.0,
+      "arrival": 936.7262237430991,
+      "service_start": 936.7262237430991,
+      "late": 0.0
+    }
+  ],
+  "realized_routes": [
+    [
+      10,
+      27,
+      9,
+      48,
+      22,
+      3,
+      32,
+      31,
+      15,
+      29,
+      44,
+      28
+    ],
+    [
+      87,
+      50,
+      36,
+      67,
+      79,
+      2
+    ],
+    [
+      90,
+      68,
+      69,
+      65,
+      72,
+      76,
+      86,
+      98,
+      88
+    ],
+    [
+      70,
+      55,
+      74,
+      91,
+      77,
+      85,
+      54
+    ],
+    [
+      37,
+      24,
+      41,
+      25,
+      13,
+      49
+    ],
+    [
+      56,
+      61,
+      57,
+      52,
+      64,
+      95
+    ],
+    [
+      8,
+      16,
+      4,
+      35
+    ],
+    [
+      11,
+      33,
+      6,
+      30,
+      21,
+      18
+    ],
+    [
+      43,
+      45,
+      23
+    ],
+    [
+      63,
+      62,
+      99,
+      84,
+      53
+    ],
+    [
+      20,
+      19,
+      1,
+      14,
+      17,
+      12
+    ],
+    [
+      66,
+      82,
+      93
+    ],
+    [
+      75,
+      94,
+      89,
+      92,
+      83,
+      42
+    ],
+    [
+      26,
+      34
+    ],
+    [
+      40,
+      7,
+      47
+    ],
+    [
+      59
+    ],
+    [
+      39,
+      46
+    ],
+    [
+      5
+    ],
+    [
+      78,
+      97
+    ],
+    [
+      38
+    ],
+    [
+      60,
+      71,
+      51,
+      73,
+      81,
+      100,
+      96,
+      58
+    ],
+    [
+      80
+    ],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "transport": "viewer_content_verified",
+  "revision": null,
+  "snapshot_observed": "2026-09-16",
+  "dataset": "MBZUAI/svrp-bench",
+  "split": "test",
+  "rows_sha256": "9c055992902ddf9c6133c438bc35e09623d59b0a376b623cbadd3375bbd36147",
+  "rows": 560,
+  "role": "development_only_never_final_test"
+}

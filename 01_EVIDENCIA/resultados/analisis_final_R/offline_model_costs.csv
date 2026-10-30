@@ -1,0 +1,7 @@
+"method","solver_seed","model_checkpoint_sha256","selection_status","training_seconds_including_validation","validation_seconds_already_included","shared_with"
+"hbg_facs","11","d506ca778ea9dc72f4ca1f012b3506a92222bd13672dcf7735a5d229de1532ff","validation_gate_failed","41922.211945724994","2042.4817740269973","hbg_no_pheromone"
+"hbg_facs","29","e7a1a2ae03eff4a3e3af1271e137cece7a378f2ebb6994efcc5787a5dab9ada0","validation_gate_failed","43410.17611559099","2147.619403887","hbg_no_pheromone"
+"hbg_facs","47","c4ba552c365e513db7a944ecf08d16f62aaa531b13d9afe9c946025e440b9409","validation_gate_failed","43668.136149728","2264.2901131809977","hbg_no_pheromone"
+"pomo","11","a3ab1fd2a835a40e244de65d7a9eb125032d8bc70d7a763eb3602bbb82a87289","selected_complete_validation","27237.512902658997","2529.2995307890005",
+"pomo","29","afe1d437bec7356822fba87bad571062ab0ce53efdc883f8250c12139d182af2","selected_complete_validation","39406.685555491","3674.1695883219936",
+"pomo","47","d7189d431abad991e5a17f3d02298703c222a6136cf967f2e8ba14adc2b4c09f","selected_complete_validation","43599.550350215","4269.4989393830065",

@@ -1,0 +1,15 @@
+{
+  "schema_version": "final-analysis-08-v1",
+  "processing_id": "final_analysis08_2e4ada729a3ab1237edf",
+  "input_report_checksums_sha256": "02d4dfd973490bf85c3900750881e7dcf47657882966e8084bf823ad43be0207",
+  "input_report_relative_path": "final_method_runs/ce05f08892e92f3cff035f887bdf4604e54f9ac124e4af9ae048eeaf2541acfe/final10_802d2255f89bb6ccacb6/report",
+  "final_release_id": "final10_802d2255f89bb6ccacb6",
+  "comparison_id": "final10_802d2255f89bb6ccacb6",
+  "analysis_r_sha256": "dac2688a1fb473b168837e80849af1fa8c105d7f53a5bd2efc66581a35884221",
+  "selection_reason": "Procesamiento del protocolo final10_802d2255f89bb6ccacb6 prefijado y completado; selección por identidad del protocolo.",
+  "source_chain_verified_before_and_after": true,
+  "role": "confirmatory_holdout",
+  "distinct_runtime_environments": 3,
+  "timing_requires_hardware_stratification": true,
+  "created_utc": "2026-10-22T03:46:17.838122+00:00"
+}

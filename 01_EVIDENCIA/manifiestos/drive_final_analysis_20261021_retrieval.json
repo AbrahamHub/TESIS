@@ -1,0 +1,271 @@
+{
+  "report_folder_url": "https://drive.google.com/drive/folders/1_bNS5M1jb_Ichvm124zF3L9AaQhr82Ke",
+  "root_CHECKSUMS_sha256": "424d18f0b56744e267ba41427de7f0d0e5bc4b247e1f2b40de7b423261ae02cd",
+  "inspection": "read_only_MCP_download_and_byte_hash_comparison_no_experimental_execution",
+  "files": [
+    {
+      "relative_path": "CHECKSUMS.json",
+      "drive_id": "1BrY4ErGCEFiapadse54wI6OotXpn4-Mo",
+      "drive_url": "https://drive.google.com/file/d/1BrY4ErGCEFiapadse54wI6OotXpn4-Mo/view?usp=drivesdk",
+      "bytes": 3296,
+      "sha256": "424d18f0b56744e267ba41427de7f0d0e5bc4b247e1f2b40de7b423261ae02cd",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "R_stderr.log",
+      "drive_id": "1UE1UebKau_63o5qDTAVwINpU6LDFIPsu",
+      "drive_url": "https://drive.google.com/file/d/1UE1UebKau_63o5qDTAVwINpU6LDFIPsu/view?usp=drivesdk",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "R_stdout.log",
+      "drive_id": "1iDQJopwMIGr2eebKjrlbW7xx6zeYAgmV",
+      "drive_url": "https://drive.google.com/file/d/1iDQJopwMIGr2eebKjrlbW7xx6zeYAgmV/view?usp=drivesdk",
+      "bytes": 123,
+      "sha256": "4f50d963802d6745b15f19d1e822164bbbfb2699cb1a2f2c2ebe564df10e1ef5",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "attempt_panel_final.csv",
+      "drive_id": "1nJYITdCyhEyj-6Lfu-f2dv6kktoHyjmT",
+      "drive_url": "https://drive.google.com/file/d/1nJYITdCyhEyj-6Lfu-f2dv6kktoHyjmT/view?usp=drivesdk",
+      "bytes": 4950774,
+      "sha256": "d9a7ec57e817b123b4c5dac2b934f89d7d566edf310bf37343eba390e330f3e3",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "compute_costs_without_policy_search_duplication.csv",
+      "drive_id": "13SLhzozLN2cYeUW2jxeNDsd36CJZpJPH",
+      "drive_url": "https://drive.google.com/file/d/13SLhzozLN2cYeUW2jxeNDsd36CJZpJPH/view?usp=drivesdk",
+      "bytes": 2124,
+      "sha256": "7fece2bce15d62a002a25dbce9eaab4ac8324923bf67c8bb05d85b0ca4921c92",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "confirmatory_results.md",
+      "drive_id": "1fB8NOxABuf1IYxqMfjcpYK0_uuo0ls1A",
+      "drive_url": "https://drive.google.com/file/d/1fB8NOxABuf1IYxqMfjcpYK0_uuo0ls1A/view?usp=drivesdk",
+      "bytes": 1879,
+      "sha256": "2c2364be68d5dca24caed404883a404ca268e6dfb413814db51393025a905161",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "confirmatory_results_08.R",
+      "drive_id": "18qEz5uvegQTF25r40LFO-sRT5XnhrSAt",
+      "drive_url": "https://drive.google.com/file/d/18qEz5uvegQTF25r40LFO-sRT5XnhrSAt/view?usp=drivesdk",
+      "bytes": 23676,
+      "sha256": "dac2688a1fb473b168837e80849af1fa8c105d7f53a5bd2efc66581a35884221",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "coprimary_effects.pdf",
+      "drive_id": "1JZYHkCPY3HbSIfO9jTB_Z-IG0zXhEwLQ",
+      "drive_url": "https://drive.google.com/file/d/1JZYHkCPY3HbSIfO9jTB_Z-IG0zXhEwLQ/view?usp=drivesdk",
+      "bytes": 4747,
+      "sha256": "cabbc8ec73308786676f2f5469e186958cf883edcf6d13c1d5785230e31d2b1a",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "coprimary_effects.png",
+      "drive_id": "11Dm2JebW-1sXlxEkSkJe7Oqhm2dt4VOw",
+      "drive_url": "https://drive.google.com/file/d/11Dm2JebW-1sXlxEkSkJe7Oqhm2dt4VOw/view?usp=drivesdk",
+      "bytes": 82798,
+      "sha256": "95573974de5bd1be94bf412e512cbfa3fb90a54436e5662d10c8060d7afa54c6",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "coprimary_inference.csv",
+      "drive_id": "1Dyr0Md8Mb8nzsJDOTWDPE86jDlZGrKlE",
+      "drive_url": "https://drive.google.com/file/d/1Dyr0Md8Mb8nzsJDOTWDPE86jDlZGrKlE/view?usp=drivesdk",
+      "bytes": 1214,
+      "sha256": "b7683afb0ce15de07a6854a76b85436f666a5c8d7631e5e394202add13093eaa",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "geometry_primary_scores.csv",
+      "drive_id": "1tfKZvOHBDo7M2IfgUxvcrbY6OB1zkEIp",
+      "drive_url": "https://drive.google.com/file/d/1tfKZvOHBDo7M2IfgUxvcrbY6OB1zkEIp/view?usp=drivesdk",
+      "bytes": 28075,
+      "sha256": "0561c1840ce843ba959956a6dae4da5f20f441828ffcc4e745cd99a9fe784fad",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "identity.json",
+      "drive_id": "14Awce_59VmBbV1gpB-HQmti0KwD97r8m",
+      "drive_url": "https://drive.google.com/file/d/14Awce_59VmBbV1gpB-HQmti0KwD97r8m/view?usp=drivesdk",
+      "bytes": 932,
+      "sha256": "abdf5e42d180aef4b4f9c5196018b592df38c0500579bd0d2f4e7147d80b7ca8",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "input_manifest.json",
+      "drive_id": "1qoe4ylxPN2wP0KJc_1E2sPnj_0LCsHfM",
+      "drive_url": "https://drive.google.com/file/d/1qoe4ylxPN2wP0KJc_1E2sPnj_0LCsHfM/view?usp=drivesdk",
+      "bytes": 1068,
+      "sha256": "02d4dfd973490bf85c3900750881e7dcf47657882966e8084bf823ad43be0207",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "offline_model_costs.csv",
+      "drive_id": "1yf9OKMV7eIVUnhCbz7kicQ0yuIfbwnJK",
+      "drive_url": "https://drive.google.com/file/d/1yf9OKMV7eIVUnhCbz7kicQ0yuIfbwnJK/view?usp=drivesdk",
+      "bytes": 1112,
+      "sha256": "56fda671dbead69fac666c66f7b592bf8246bbcba9e90d60355c577f532df4cc",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "processing_checks.csv",
+      "drive_id": "1heiFOn4VKhL6n44z6wYlSmwjoT9Rr7Uk",
+      "drive_url": "https://drive.google.com/file/d/1heiFOn4VKhL6n44z6wYlSmwjoT9Rr7Uk/view?usp=drivesdk",
+      "bytes": 221,
+      "sha256": "40ad35bf727053718b394309b5657fbf37391f41a9cf82d6075078edf5b731bc",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "secondary_common_valid_costs.csv",
+      "drive_id": "1h2mWI-GqA0mvQxT8KFk04gn9E0i41QWy",
+      "drive_url": "https://drive.google.com/file/d/1h2mWI-GqA0mvQxT8KFk04gn9E0i41QWy/view?usp=drivesdk",
+      "bytes": 2776405,
+      "sha256": "e3e67bb2d737714d4d45cee7d7080dafdf8e940bb97872a4b49149b2ffcda68c",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "secondary_conservative_gap_audit.csv",
+      "drive_id": "1NI5cH8bC5OeXjc55y99_TtPo2_Fofy_q",
+      "drive_url": "https://drive.google.com/file/d/1NI5cH8bC5OeXjc55y99_TtPo2_Fofy_q/view?usp=drivesdk",
+      "bytes": 2147690,
+      "sha256": "3463e8c88454242c5901e6c33579bf6fd05fde2ed4082663bf8e834599e50efc",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "secondary_descriptive_by_geometry.csv",
+      "drive_id": "1rOYc95b5OF9Bkvi8Qm9FKU7FGKHvkOsn",
+      "drive_url": "https://drive.google.com/file/d/1rOYc95b5OF9Bkvi8Qm9FKU7FGKHvkOsn/view?usp=drivesdk",
+      "bytes": 584974,
+      "sha256": "57e28929a414584138543282c2a754395a454a57c91a4bb523a8cef25dbdb35d",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "secondary_results.md",
+      "drive_id": "18N_ybXpOrxaQQkm9GmUU5n953gf4gq6X",
+      "drive_url": "https://drive.google.com/file/d/18N_ybXpOrxaQQkm9GmUU5n953gf4gq6X/view?usp=drivesdk",
+      "bytes": 8355,
+      "sha256": "22ebee592cba174f09c4d4778d85a4f9c9a73ebfc053ae02da08b66992321d41",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "seed_pair_scores.csv",
+      "drive_id": "1wfENjxe-__3eVOmVLpYURyJUVY4t8KVg",
+      "drive_url": "https://drive.google.com/file/d/1wfENjxe-__3eVOmVLpYURyJUVY4t8KVg/view?usp=drivesdk",
+      "bytes": 140987,
+      "sha256": "0e317f95132e2eba38514686c24d942bbd3c370b55e8c7861f04e0136d6c1eab",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "sessionInfo.txt",
+      "drive_id": "1FglCnkC05VIImZXcfA9WpSO2lXoi6CAe",
+      "drive_url": "https://drive.google.com/file/d/1FglCnkC05VIImZXcfA9WpSO2lXoi6CAe/view?usp=drivesdk",
+      "bytes": 854,
+      "sha256": "af73043158a39faf104426d0ad363a1c79a10d6a184810535bd3b962471b2227",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/analysis_export_contract.json",
+      "drive_id": "1VNuo-pHPKqvZVFu52ArjfGwSrKW583lk",
+      "drive_url": "https://drive.google.com/file/d/1VNuo-pHPKqvZVFu52ArjfGwSrKW583lk/view?usp=drivesdk",
+      "bytes": 1347,
+      "sha256": "c5bd0b3b28279ccfc55ae61d70774f56824c5b605127813dc8b0f6c602083cc3",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/attempts.csv",
+      "drive_id": "1ONWXsMZsPxh7UgiAZMWXy4O2fMM8fTij",
+      "drive_url": "https://drive.google.com/file/d/1ONWXsMZsPxh7UgiAZMWXy4O2fMM8fTij/view?usp=drivesdk",
+      "bytes": 4540549,
+      "sha256": "c338d692246da5c9b14e947b632e82ae07986d97e7a9666d274087ec68f7bd6a",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/final_release.json",
+      "drive_id": "1bpI4IOeekNGBpyQwBXdTA9fbIKJRWyUZ",
+      "drive_url": "https://drive.google.com/file/d/1bpI4IOeekNGBpyQwBXdTA9fbIKJRWyUZ/view?usp=drivesdk",
+      "bytes": 1538,
+      "sha256": "0cd2aba760d33a3e8f98eda38433ea1f50f9ef4ff5c81bd840c7f5ebb631a3f6",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/registry.csv",
+      "drive_id": "191ANRdCAyn8ZaM2DOcHC3VtW5TmnL7gd",
+      "drive_url": "https://drive.google.com/file/d/191ANRdCAyn8ZaM2DOcHC3VtW5TmnL7gd/view?usp=drivesdk",
+      "bytes": 22209,
+      "sha256": "e704dbc23288a3203bbc8f2dde71c695b19cd663c8ad6c9ece7b724ab1c266fc",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/research_design.json",
+      "drive_id": "1C4xqNN9MtFXIsYaIitKznQ0OeMrhKsV3",
+      "drive_url": "https://drive.google.com/file/d/1C4xqNN9MtFXIsYaIitKznQ0OeMrhKsV3/view?usp=drivesdk",
+      "bytes": 4766,
+      "sha256": "8237b9b7b57375f779a60be174d7eae6fd3ec648d6fb4cadcf6130d06fa8f077",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/runtime_environments.json",
+      "drive_id": "14eKlCs49-RrZC_uilsC-VFL5uJpuvBdc",
+      "drive_url": "https://drive.google.com/file/d/14eKlCs49-RrZC_uilsC-VFL5uJpuvBdc/view?usp=drivesdk",
+      "bytes": 67918,
+      "sha256": "14e87d9edab38ef4572ab5fb930b076d39d64f8f634e14d6a70fecb15c6c471e",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/runtime_summary.csv",
+      "drive_id": "1BDFVTvPzBB0w-9AnHmIwajEwG9HcG3Pv",
+      "drive_url": "https://drive.google.com/file/d/1BDFVTvPzBB0w-9AnHmIwajEwG9HcG3Pv/view?usp=drivesdk",
+      "bytes": 623,
+      "sha256": "51bf0fef14d45e4166c2cd4add2a794cf7100d5ca200b39b7b46f9ef20dda347",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/source_manifests/freeze.json",
+      "drive_id": "1ldKsJmBAGZmPwe3d2mU3W0dB5MS46k70",
+      "drive_url": "https://drive.google.com/file/d/1ldKsJmBAGZmPwe3d2mU3W0dB5MS46k70/view?usp=drivesdk",
+      "bytes": 668611,
+      "sha256": "7a05c7fc6b7cdc811afc92ab0dbcccaa6d2c12fe613c88adc36f78a741c274a4",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/source_manifests/population.json",
+      "drive_id": "1aRGrOFizRd82EtaumZ7yJG6FzvCygg7R",
+      "drive_url": "https://drive.google.com/file/d/1aRGrOFizRd82EtaumZ7yJG6FzvCygg7R/view?usp=drivesdk",
+      "bytes": 420212,
+      "sha256": "3e9999c623a936469c9b6a15fb170eea14df46f8304648a07071812fbf6832b2",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/source_manifests/protocol.json",
+      "drive_id": "12AXrP-3E9fOF6MzHq4fL_5JDTIzGqSJ-",
+      "drive_url": "https://drive.google.com/file/d/12AXrP-3E9fOF6MzHq4fL_5JDTIzGqSJ-/view?usp=drivesdk",
+      "bytes": 4583045,
+      "sha256": "2b405b5a7c223fd5c60adef54b734d26981feb92b37057bdcd63b7ce6c0f961e",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "source_evidence/source_manifests/test.json",
+      "drive_id": "13wkWWZ_icoJ25rb1bmElz5bgeYy-GkdE",
+      "drive_url": "https://drive.google.com/file/d/13wkWWZ_icoJ25rb1bmElz5bgeYy-GkdE/view?usp=drivesdk",
+      "bytes": 1915224,
+      "sha256": "1bc5c078118fff2ddbbe21d25f98ac03f51f1f265c489a30050d40e81ff03bd6",
+      "matched_sealed_hash": true
+    },
+    {
+      "relative_path": "timing_interpretation.md",
+      "drive_id": "19yFXoAntwu_REdO7ODoyIiOTcry-V2Mi",
+      "drive_url": "https://drive.google.com/file/d/19yFXoAntwu_REdO7ODoyIiOTcry-V2Mi/view?usp=drivesdk",
+      "bytes": 332,
+      "sha256": "1621f8e11d82f6f8751213678ff5b3e8539230e0612f87f71a2bb3c96fc4e521",
+      "matched_sealed_hash": true
+    }
+  ]
+}

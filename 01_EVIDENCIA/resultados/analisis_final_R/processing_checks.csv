@@ -1,0 +1,7 @@
+"check","passed"
+"source_hashes_before_after",TRUE
+"all_scheduled_attempts_present",TRUE
+"complete_primary_seed_pairs",TRUE
+"independent_geometry_quotas",TRUE
+"two_coprimaries_holm",TRUE
+"no_secondary_pvalue_search",TRUE

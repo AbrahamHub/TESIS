@@ -1,0 +1,5 @@
+instance_id,n_customers,n_depots,available_vehicles,total_demand,zero_demand_customers,capacity_min,capacity_nonbinding_per_vehicle,unreachable_by_window_lower_bound,oversized_demands,aggregate_capacity_sufficient,source_kind,sha256,feasibility_certified
+dev_tw_n50_i0,50,1,12,2403.0,3,2403.0,True,[],[],True,hf_geometry_demands_fleet_plus_derived_windows,17dc741073c2b524d3bfbd97912fd4abd9ab033267faf2bc629265de9fb1f0f9,False
+dev_tw_n100_i0,100,1,25,5100.0,3,5100.0,True,[59],[],True,hf_geometry_demands_fleet_plus_derived_windows,540bb7187a90ef06f56f90c4a5e0cb0438bfc902d2077975fb3faa7fe914319f,False
+dev_tw_n200_i0,200,1,48,10720.0,0,10720.0,True,"[119, 135, 192]",[],True,hf_geometry_demands_fleet_plus_derived_windows,fb3e12f54bd1003e00ed1910601935fe714aa561ef2feadeae90221592644445,False
+dev_tw_n300_i0,300,1,72,15397.0,5,15397.0,True,"[89, 162, 217, 246, 266]",[],True,derived_official_base_generator,3e7cf85cf9c76b4fb10b73d013ffbc4b6ee7017d777ad1c093928be45877eec8,False

@@ -1,0 +1,24 @@
+{
+  "run_id": "20260917T001903Z_f2389096",
+  "bank_id": "pilot00_82e5e7e7d02b06b4",
+  "bank_manifest_sha256": "5c80cdd58284829016636aec30b6324ebaefefab42c2d3045977daf9af606701",
+  "role": "development_only",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-14.7.6-arm64-arm-64bit",
+    "cpu_count": 8,
+    "versions": {
+      "numpy": "2.2.6",
+      "pandas": "2.2.3",
+      "matplotlib": "3.10.3",
+      "scipy": "1.15.3",
+      "scikit-learn": "1.6.1",
+      "pillow": "11.2.1",
+      "pyarrow": "20.0.0",
+      "huggingface-hub": "0.33.4",
+      "torch": null
+    },
+    "gpu": null
+  },
+  "hypothesis_testing": false
+}

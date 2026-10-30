@@ -1,0 +1,108 @@
+{
+  "schema_version": "notebook-annex-edition-v1",
+  "date": "2026-09-22",
+  "scope": "markdown_only_saved_code_and_outputs_preserved",
+  "experimental_completion": false,
+  "completion_evidence": "docs/ESTADO_EXPERIMENTAL_20260922.md",
+  "notebooks": [
+    {
+      "notebook": "notebooks/00_setup_y_datos.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/00_setup_y_datos_dc6e5d9f80fb408a.ipynb",
+      "original_sha256": "dc6e5d9f80fb408a88ff65ba6b50ab0bfdaa020ed8065cee3e56bb2ee5ac98c5",
+      "annex_sha256": "9ee159e51efd7dc320f23a5edda044c79c2e547e93341d7a3326eb95a4f3b368",
+      "code_cells_with_outputs_sha256": "64239b3413b4abae2636ea9a7b0831f236cee12504cff44bd61654744ea6ef48",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/01_exactos_branch_cut.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/01_exactos_branch_cut_bff826b8af8f42a5.ipynb",
+      "original_sha256": "bff826b8af8f42a56eb2f17047e191cc5ed6ce86231e70ff0ec1eec0a4451d75",
+      "annex_sha256": "9c28b721289b4b8037261ef2e46114315b31669ece8109320d39c05b7cffb53b",
+      "code_cells_with_outputs_sha256": "80cf517954c61050726a2719f32623cebf81b66e386782bf5ac17dc4094def2d",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/02_metaheuristicas_aco_tabu.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/02_metaheuristicas_aco_tabu_18d8c02fd643a514.ipynb",
+      "original_sha256": "18d8c02fd643a5140a0026037186bba89f0b5a74b7024ccc3043fff8196c765f",
+      "annex_sha256": "8951fa072ec154815fc8484e981a66a1bc9381c9bf1a47d85eb6671acbd1873f",
+      "code_cells_with_outputs_sha256": "b183f0463e2a94631131ca0a1b2804751022be209ab6519234501ed8551e4cf7",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/03_nco_supervisado_attention.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/03_nco_supervisado_attention_83dea1568ba86b0f.ipynb",
+      "original_sha256": "83dea1568ba86b0fd0c9569282ad45c380c290da4594ea56cfe57f5057eccf52",
+      "annex_sha256": "eb79ef2eb50b09a4d688c2b82296265b0b0b1ad54b403613ee10033127dd4ed3",
+      "code_cells_with_outputs_sha256": "0bdd9d9a058641a0380d3a1d7343cf09a458133bf4f0cb3d5b1dd093560ae1f1",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/03b_diagnostico_cruzado.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/03b_diagnostico_cruzado_d01d207fab3345be.ipynb",
+      "original_sha256": "d01d207fab3345beff33779acb7c016b6b1fcf7337625004799af15db086e649",
+      "annex_sha256": "acefa07a125dc4f26a4916920c999d63494237e7a404ac53357d34f802cd3191",
+      "code_cells_with_outputs_sha256": "f04ab84c494b9ec8fd1cc3f0d750bfe662914660b15992ff1cea748751f0f519",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/04_nco_rl_pomo.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/04_nco_rl_pomo_718de112bbf86156.ipynb",
+      "original_sha256": "718de112bbf861569e9d81baa22b4d98656945cbccccad59b4151b8573fdea80",
+      "annex_sha256": "e76117c7fb6b743e33cdbc527253a27f3f29773c0f3fb559834b6acb529b6c88",
+      "code_cells_with_outputs_sha256": "1f40c82a01f6d7f4bb7c27d5fad33b187cac24af2e8daf267e5ca4cc3f1b31dd",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/05_ehbg_facs.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/05_ehbg_facs_36c11c8d78329069.ipynb",
+      "original_sha256": "36c11c8d783290692aeedb65b9d5dd18ed2295144ee3180fc12f59f3972b1f91",
+      "annex_sha256": "220210b46c004423397a2d59a3c3219a322cce37b737380b110dae4e95a177f6",
+      "code_cells_with_outputs_sha256": "b8f675a5bcc219f8306c6efb35b566b03bc037a8ddbf0cba436c554e2d2c703f",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/06_comparacion_y_estadistica.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/06_comparacion_y_estadistica_43289136e246125f.ipynb",
+      "original_sha256": "43289136e246125f034fab18563dbcaadbcd68b569092de5ab61a55cf4dd5d5c",
+      "annex_sha256": "b61a8e00c7ec005dee2f8ce42285dc8ad325b6f500ac5cd67e67166a10337769",
+      "code_cells_with_outputs_sha256": "207de1d8e506d0bab56f24fc63bf3b7475e957f765464b7023e461115c16611a",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/07_auditoria_diseno.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/07_auditoria_diseno_caffe6ede2c833ea.ipynb",
+      "original_sha256": "caffe6ede2c833eae0cf0aa5240c1c21e544a14ec1d1503630af8c171478b1c5",
+      "annex_sha256": "8e2acc53e1e22153bea0e73da8390ea0f15cee6e0b658035626cd71a85d0a7ca",
+      "code_cells_with_outputs_sha256": "7286206470e4e5673eecc2a884ff70d607355ae3efa634df2175e82be408a4a9",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/08_resultados_R.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/08_resultados_R_6f7f4697c8783e0c.ipynb",
+      "original_sha256": "6f7f4697c8783e0c51133f189b15c5c07f029052c78a6e0961a19001d8326d22",
+      "annex_sha256": "c4ff7c42e3874cb8834232a40dddfb0c939a5ed715e050a71a05f0c05a995a7d",
+      "code_cells_with_outputs_sha256": "67bed354741c3481c808f951f53093fcb5c8333f3d6812a78c1db5f40587c342",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    },
+    {
+      "notebook": "notebooks/10_experimento_final_holdout.ipynb",
+      "original_archive": "notebooks/evidence/annex_20260922/10_experimento_final_holdout_da1d70c00e4d9ad5.ipynb",
+      "original_sha256": "da1d70c00e4d9ad558e41bf2857afd4eaa35f3d8ef3ac71cd657b7ff968d6f29",
+      "annex_sha256": "cb571911e2b03f3f2c71792f78cfd43f3a5380ce51effdc275b836e5dd193661",
+      "code_cells_with_outputs_sha256": "cbb25c3f2de813e9fb0a5d339205331c2c9fc6c1d534dbd56b394c56a2e4c986",
+      "code_and_outputs_unchanged": true,
+      "saved_error_count": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "final08-executed-notebook-evidence-v1",
+  "receipt_date_local": "2026-10-21",
+  "source_notebook_sha256": "df17f10dfd37d7b2359e0e6ef4679ba002537f9edd0972eccc712839df12545d",
+  "input_report_checksums_sha256": "02d4dfd973490bf85c3900750881e7dcf47657882966e8084bf823ad43be0207",
+  "reported_R_output_directory": "/content/drive/MyDrive/TESIS-EHBG-FACS/final_analysis_runs/final10_802d2255f89bb6ccacb6/final_analysis08_2e4ada729a3ab1237edf/20261022T034618Z_c4ec1d",
+  "reported_R_output_checksums_sha256": "424d18f0b56744e267ba41427de7f0d0e5bc4b247e1f2b40de7b423261ae02cd",
+  "source_cells_identical_to_prepared_notebook": true,
+  "saved_error_outputs": 0,
+  "R_completed_and_output_sealed_in_saved_log": true,
+  "raw_Drive_artifacts_inspected_locally": false,
+  "local_activity": "read_and_extract_saved_outputs_only_no_analysis_or_experimental_execution",
+  "presentation_issue": "EDD n=50, both policies: printed FR [0.467, 0.466]. Static formulas imply coincident bounds with complete known observations; inspect full-precision CSV before editorial correction. Preserve original frozen R and sealed report.",
+  "files": {
+    "08_final_analysis_df17f10dfd37d7b2.ipynb": "df17f10dfd37d7b2359e0e6ef4679ba002537f9edd0972eccc712839df12545d",
+    "confirmatory_results_notebook.md": "2c2364be68d5dca24caed404883a404ca268e6dfb413814db51393025a905161",
+    "coprimary_effects_notebook.png": "95573974de5bd1be94bf412e512cbfa3fb90a54436e5662d10c8060d7afa54c6",
+    "secondary_results_notebook.md": "22ebee592cba174f09c4d4778d85a4f9c9a73ebfc053ae02da08b66992321d41",
+    "stdout_notebook.txt": "7602e19815d91cadd05a5c862457f8c408e29abb8af29fd91d508a5ce5089eb2"
+  }
+}

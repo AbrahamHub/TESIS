@@ -1,0 +1,40 @@
+{
+  "schema_version": "final-analysis-export-v1",
+  "role": "confirmatory_holdout",
+  "analysis_mode": "confirmatory",
+  "unit": "geometry_group_sha256",
+  "final_release_id": "final10_802d2255f89bb6ccacb6",
+  "comparison_id": "final10_802d2255f89bb6ccacb6",
+  "expected_methods": [
+    "hbg_facs",
+    "hbg_untrained",
+    "hbg_no_pheromone",
+    "pomo",
+    "pomo_untrained",
+    "edd",
+    "ortools_routing",
+    "aco",
+    "tabu",
+    "gurobi"
+  ],
+  "solver_seeds": [
+    11,
+    29,
+    47
+  ],
+  "policies": [
+    "fixed_order",
+    "causal_edd"
+  ],
+  "source_manifest_sha256": {
+    "population": "3e9999c623a936469c9b6a15fb170eea14df46f8304648a07071812fbf6832b2",
+    "protocol": "2b405b5a7c223fd5c60adef54b734d26981feb92b37057bdcd63b7ce6c0f961e",
+    "freeze": "7a05c7fc6b7cdc811afc92ab0dbcccaa6d2c12fe613c88adc36f78a741c274a4",
+    "test": "1bc5c078118fff2ddbbe21d25f98ac03f51f1f265c489a30050d40e81ff03bd6"
+  },
+  "analysis_source_sha256": "dac2688a1fb473b168837e80849af1fa8c105d7f53a5bd2efc66581a35884221",
+  "analysis_r_sha256": "dac2688a1fb473b168837e80849af1fa8c105d7f53a5bd2efc66581a35884221",
+  "analysis_config_sha256": "fcb50845331cc84ab8ffb1e59efc0ffae7c72aa23b2d6c9326ac81e31a15b59b",
+  "all_failures_observed_missing_never_imputed": true,
+  "events_scope": "scenario_metrics_csv_gzip_all_scenarios_with_fixed_trace_audit"
+}

@@ -1,0 +1,13 @@
+Análisis: final10 | protocolo: final10_802d2255f89bb6ccacb6
+Reporte de entrada: final_method_runs/ce05f08892e92f3cff035f887bdf4604e54f9ac124e4af9ae048eeaf2541acfe/final10_802d2255f89bb6ccacb6/report
+
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+El release registra varios entornos de ejecución: las comparaciones temporales requieren separar resultados por hardware/runtime. Los tiempos son descriptivos del cómputo observado; no estiman una aceleración causal (speedup) del método. runtime_summary.csv y runtime_environments.json se conservan sellados en source_evidence.
+null device 
+          1 
+null device 
+          1 
+R: inferencia coprimaria completa; el notebook debe sellar el reporte.
+
+Reporte confirmatorio sellado: /content/drive/MyDrive/TESIS-EHBG-FACS/final_analysis_runs/final10_802d2255f89bb6ccacb6/final_analysis08_2e4ada729a3ab1237edf/20261022T034618Z_c4ec1d
+SHA-256 CHECKSUMS: 424d18f0b56744e267ba41427de7f0d0e5bc4b247e1f2b40de7b423261ae02cd

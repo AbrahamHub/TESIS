@@ -1,0 +1,99 @@
+{
+  "scope": "nominal_mean_only",
+  "not_a_competitive_baseline": true,
+  "not_solver_input": true,
+  "policy": "balanced_insertion_mean_time_projection_v1",
+  "parent_instance_sha256": "17dc741073c2b524d3bfbd97912fd4abd9ab033267faf2bc629265de9fb1f0f9",
+  "instance_sha256": "cb57f1068a3c7b173dbd087154f8276a8ba98df7cb45cc542fc8a3f5ef12b94f",
+  "traffic": {
+    "velocity": 1.0,
+    "noise_scale": 1.0,
+    "accident_scale": 1.0,
+    "bucket_minutes": 1.0,
+    "mode": "nominal_mean"
+  },
+  "routes": [
+    [
+      43
+    ],
+    [
+      50
+    ],
+    [
+      19
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      23,
+      42,
+      11,
+      15,
+      25,
+      24
+    ],
+    [
+      44,
+      12
+    ],
+    [
+      18,
+      34,
+      28,
+      46,
+      27,
+      31
+    ],
+    [
+      10,
+      30,
+      22,
+      8,
+      29,
+      6
+    ],
+    [
+      49,
+      26,
+      1,
+      45,
+      40
+    ],
+    [
+      39,
+      20,
+      33,
+      38,
+      17,
+      47,
+      32,
+      21
+    ],
+    [
+      35,
+      3,
+      13,
+      16,
+      14,
+      7
+    ],
+    [
+      2,
+      48,
+      37,
+      36,
+      9,
+      41
+    ]
+  ],
+  "verification": {
+    "strict_feasible": true,
+    "used_vehicles": 12,
+    "minimum_customer_slack_minutes": 15.506706244424663,
+    "maximum_return_minutes": 1045.7300564212167,
+    "travel_minutes": 10502.039326199447,
+    "waiting_minutes": 0.0
+  }
+}

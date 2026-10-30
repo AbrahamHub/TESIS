@@ -1,0 +1,20 @@
+{
+  "instance_id": "dev_tw_n50_i0_fw_v2",
+  "instance_sha256": "cb57f1068a3c7b173dbd087154f8276a8ba98df7cb45cc542fc8a3f5ef12b94f",
+  "policy": "fixed_order",
+  "scenarios": 256,
+  "alpha": 0.95,
+  "mean_travel_minutes": 10796.552561396224,
+  "cvar_travel_minutes": 10797.106548488946,
+  "cost_variance_population": 0.06564185578421904,
+  "scenario_strict_feasibility": 0.0,
+  "mean_customer_violation_fraction": 0.12437500000000005,
+  "mean_lateness_minutes": 232.53967871465997,
+  "mean_depot_overtime_minutes": 0.0,
+  "used_vehicles": 12,
+  "evaluation_seconds": 0.35057749999759835,
+  "method": "diagnostic_greedy",
+  "solve_seconds": 0.002799999998387648,
+  "role": "development_only",
+  "nominal_strict_feasible": false
+}
