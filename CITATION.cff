@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Si utiliza el código de este repositorio, cite este software e indique el
+  identificador del commit utilizado. La licencia MIT se aplica exclusivamente
+  al código propio. La tesis, los datos, las salidas experimentales y los
+  materiales de terceros conservan sus derechos y condiciones originales.
+type: software
+title: "TESIS: implementación experimental HBG-FACS"
+authors:
+  - family-names: Castañeda Quintero
+    given-names: Abraham
+    affiliation: Universidad Autónoma de Nuevo León, Facultad de Ingeniería Mecánica y Eléctrica
+repository-code: https://github.com/AbrahamHub/TESIS
+license: MIT
+abstract: >-
+  Código de la tesis «Muestreo híbrido mediante redes de flujo generativo y
+  optimización por colonia de hormigas para el problema de enrutamiento de
+  vehículos estocástico». Incluye la implementación propia de HBG-FACS y
+  notebooks para la preparación de datos, entrenamiento y comparación
+  experimental en Google Colab. La tesis, los datos, las salidas experimentales
+  y los materiales de terceros conservan sus derechos y condiciones originales.
